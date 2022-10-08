@@ -356,9 +356,9 @@ ul {
 .works>div:hover {
     transform: scale(1.1);
 }
-.works>div:hover .description {
+/* .works>div:hover .description {
     display: block;
-}
+} */
 .emails{
     margin: auto;
     text-align: center;
